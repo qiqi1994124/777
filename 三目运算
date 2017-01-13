@@ -1,0 +1,7 @@
+f2=lambda a1:a1+100
+ret=f1(10)
+print(ret)
+"""
+f2=lambda a1,a2=9:a1+a2+100
+r2=f2(9)
+print(r2)#和定义函数用法相同
